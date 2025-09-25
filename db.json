@@ -766,15 +766,15 @@
   "ads": [
     {
       "id": 1,
-      "img": "https://json-server-backend-870m.onrender.com//images/1.jpg"
+      "img": "https://json-server-backend-870m.onrender.com/images/1.jpg"
     },
     {
       "id": 2,
-      "img": "https://json-server-backend-870m.onrender.com//images/2.jpg"
+      "img": "https://json-server-backend-870m.onrender.com/images/2.jpg"
     },
     {
       "id": 3,
-      "img": "https://json-server-backend-870m.onrender.com//images/3.jpg"
+      "img": "https://json-server-backend-870m.onrender.com/images/3.jpg"
     }
   ]
 }
