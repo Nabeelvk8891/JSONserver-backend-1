@@ -766,15 +766,15 @@
   "ads": [
     {
       "id": 1,
-      "img": "http://localhost:3000/images/1.jpg"
+      "img": "https://json-server-backend-870m.onrender.com//images/1.jpg"
     },
     {
       "id": 2,
-      "img": "http://localhost:3000/images/2.jpg"
+      "img": "https://json-server-backend-870m.onrender.com//images/2.jpg"
     },
     {
       "id": 3,
-      "img": "http://localhost:3000/images/3.jpg"
+      "img": "https://json-server-backend-870m.onrender.com//images/3.jpg"
     }
   ]
 }
